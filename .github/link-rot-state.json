@@ -16,7 +16,7 @@
     "redirect_to": null
   },
   "https|arjunsreedharan.org|/post/148675821737/memory-allocators-101-write-a-simple-memory|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -416,11 +416,11 @@
     "redirect_to": "https://codepr.github.io/posts/sol-mqtt-broker/"
   },
   "https|codequs.com|/p/S14jQ5UyG/build-a-distributed-streaming-system-with-apache-kafka-and-python|": {
-    "consecutive_failures": 7,
+    "consecutive_failures": 8,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": null,
+    "last_class": "SUSPECT",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|cs193p.sites.stanford.edu||": {
@@ -659,8 +659,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": 503,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/TanayK07/networking-from-scratch|": {
@@ -672,131 +672,131 @@
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/15|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/16|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/17|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/18|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/19|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/20|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/21|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/22|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/23|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/24|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/25|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/26|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/27|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/28|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/29|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/a327ex/blog/issues/30|": {
-    "consecutive_failures": 1,
-    "first_failed": "2026-08-17",
+    "consecutive_failures": 0,
+    "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "HARD_DEAD",
-    "last_status": 404,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|github.com|/adamwespiser/scheme|": {
@@ -912,7 +912,7 @@
     "redirect_to": null
   },
   "https|hackclub.com|/workshops|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -984,7 +984,7 @@
     "redirect_to": null
   },
   "https|hackhands.com|/building-instagram-clone-angularjs-satellizer-nodejs-mongodb|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -1104,7 +1104,7 @@
     "redirect_to": null
   },
   "https|jguegant.github.io|//jguegant.github.io/blogs/tech/meta-crush-saga.html|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "SUSPECT",
@@ -1261,7 +1261,7 @@
     "first_seen": "2026-07-04",
     "last_class": "OK",
     "last_status": 200,
-    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c79f1c60f7fc1f8dfc"
+    "redirect_to": "https://rsci.app.link/wWUO7TN8SS?_p=c21429c39a077af1e51b90fce0b1"
   },
   "https|linoscope.github.io|/writing-a-game-boy-emulator-in-ocaml|": {
     "consecutive_failures": 0,
@@ -2088,7 +2088,7 @@
     "redirect_to": null
   },
   "https|thinkster.io|/django-angularjs-tutorial|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -2443,8 +2443,8 @@
     "consecutive_failures": 0,
     "first_failed": null,
     "first_seen": "2026-07-04",
-    "last_class": "BLOCKED",
-    "last_status": null,
+    "last_class": "OK",
+    "last_status": 200,
     "redirect_to": null
   },
   "https|www.digitalocean.com|/community/tutorials/how-to-build-a-blog-with-vue-graphql-and-apollo-client|": {
@@ -3256,7 +3256,7 @@
     "redirect_to": "https://www.adit.io/posts/2013-04-15-making-a-website-with-haskell.html"
   },
   "http|arjunsreedharan.org|/post/82710718100/kernel-101-lets-write-a-kernel|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3424,7 +3424,7 @@
     "redirect_to": null
   },
   "http|sahatyalkabov.com|/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio|": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
@@ -3456,7 +3456,7 @@
     "redirect_to": "https://shiny.posit.co/r/getstarted/"
   },
   "http|thinkster.io||": {
-    "consecutive_failures": 8,
+    "consecutive_failures": 9,
     "first_failed": "2026-07-04",
     "first_seen": "2026-07-04",
     "last_class": "HARD_DEAD",
